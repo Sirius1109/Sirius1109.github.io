@@ -317,43 +317,43 @@ hr {
 	background: url('../Solar/Pluto.png');
 	background-repeat:no-repeat;
 	background-position:center;
-	background-size:70% 70%;
+	background-size:100% 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
 	background: url('../Solar/Moon.png');
 	background-repeat:no-repeat;
 	background-position:center;
-	background-size:70% 70%;
+	background-size:100% 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
 	background: url('../Solar/Mercury.png');
 	background-repeat:no-repeat;
 	background-position:center;
-	background-size:70% 70%;
+	background-size:100% 100%;
 }
   .tile.tile-16 .tile-inner {
 	background: url('../Solar/Mars.png');
 	background-repeat:no-repeat;
 	background-position:center;
-	background-size:70% 70%;
+	background-size:100% 100%;
 }
   .tile.tile-32 .tile-inner {
 	background: url('../Solar/Venus.png');
 	background-repeat:no-repeat;
 	background-position:center;
-	background-size:70% 70%;
+	background-size:100% 100%;
 }
   .tile.tile-64 .tile-inner {
 	background: url('../Solar/Earth.png');
 	background-repeat:no-repeat;
 	background-position:center;
-	background-size:70% 70%;
+	background-size:100% 100%;
 }
   .tile.tile-128 .tile-inner {
 	background: url('../Solar/Neptune.png');
 	background-repeat:no-repeat;
 	background-position:center;
-	background-size:70% 70%;
+	background-size:100% 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
      }
     @media screen and (max-width: 520px) {
@@ -363,7 +363,7 @@ hr {
 	background: url('../Solar/Uranus.png');
 	background-repeat:no-repeat;
 	background-position:center;
-	background-size:70% 70%;
+	background-size:100% 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     }
     @media screen and (max-width: 520px) {
@@ -373,7 +373,7 @@ hr {
 	background: url('../Solar/Saturn.png');
 	background-repeat:no-repeat;
 	background-position:center;
-	background-size:70% 70%;
+	background-size:100% 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     }
     @media screen and (max-width: 520px) {
@@ -383,7 +383,7 @@ hr {
 	background: url('../Solar/Jupiter.png');
 	background-repeat:no-repeat;
 	background-position:center;
-	background-size:70% 70%;
+	background-size:100% 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
      }
     @media screen and (max-width: 520px) {
@@ -393,7 +393,7 @@ hr {
 	background: url('../Solar/Sun.png');
 	background-repeat:no-repeat;
 	background-position:center;
-	background-size:70% 70%;
+	background-size:100% 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
      }
     @media screen and (max-width: 520px) {
