@@ -580,7 +580,7 @@ hr {
     -ms-user-select: none;
     -ms-touch-action: none;
     touch-action: none;
-    background: #bbada0;
+    /*background: #bbada0;棋盘底色*/
     border-radius: 6px;
     width: 280px;
     height: 280px;
